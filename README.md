@@ -23,4 +23,3 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 - `npm run lint` — check the project with ESLint
 
 Notes are stored locally in the browser and are not synced between devices.
-# adv101-noteapp-veloz
